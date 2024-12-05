@@ -1,5 +1,8 @@
 # Web-Proxy-Server
 
+![Screenshot (3)](https://github.com/user-attachments/assets/b5bfdf5b-11ae-4aa8-a45c-77878d32fab4)
+
+
 Project Overview
 
 The Multithreaded Proxy Web Server is a simple yet efficient proxy server implemented in C++ that handles incoming HTTP requests from clients and forwards them to the appropriate target server. The proxy server supports multithreading, which allows it to handle multiple client requests concurrently, making it scalable and capable of processing many requests at once.
